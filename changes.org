@@ -1,0 +1,9 @@
+* Marc's Edits
+
+** Change primavera wording
+Talk about different "roles" or something
+** More stuff in GD section
+** Move senior project to own section and above professional experience
+** Check for present tense in Oracle section
+** Add math tutoring section maybe 
+** Think about removing references to school
